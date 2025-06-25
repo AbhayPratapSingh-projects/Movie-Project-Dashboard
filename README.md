@@ -41,4 +41,4 @@ Data source (CSV or Excel, if available)
 
 Screenshots of dashboards below attached 👇
 
-ReadMe with project overviewhttps://github.com/AbhayPratapSingh-projects/Movie-Project-Dashboard/blob/main/One%20Look%20Of%20Dashboard.png
+https://github.com/AbhayPratapSingh-projects/Movie-Project-Dashboard/blob/main/One%20Look%20Of%20Dashboard.png
